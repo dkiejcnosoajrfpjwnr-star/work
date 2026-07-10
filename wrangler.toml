@@ -1,4 +1,4 @@
-name = "talking-bot-manager"
+name = "work"
 main = "worker.js"
 compatibility_date = "2026-07-10"
 
