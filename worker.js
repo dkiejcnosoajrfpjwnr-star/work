@@ -3,7 +3,7 @@
 // يعمل على Cloudflare Workers + KV
 // ============================================
 
-const MAIN_BOT_TOKEN = "8446179685:AAHJsOuyJSjeHM0bPtyqtuHjsBlIHYH6CjY";
+const MAIN_BOT_TOKEN = "8436458737:AAFvCQSI1j5kwDN01yH7vpwIZjk9NCihZ1g";
 const OWNER_ID = 6668195885;
 
 // دالة إرسال طلب إلى تيليجرام
