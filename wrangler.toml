@@ -1,0 +1,7 @@
+name = "talking-bot-manager"
+main = "worker.js"
+compatibility_date = "2026-07-10"
+
+[[kv_namespaces]]
+binding = "TALKING_BOT_KV"
+id = ""
